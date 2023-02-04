@@ -2,7 +2,7 @@
 
 ## Description
 
-Aqui hise el reto de [**QR Code Componemt**](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub) terminado en ()
+Aqui hise el reto de [**QR Code Componemt**](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub) terminado en (1 hrs)
 
 ## Commits
 
